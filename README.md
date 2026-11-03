@@ -20,7 +20,7 @@
 
 ## 🚀 Overview
 
-**Buzz QR AI** bridges the physical-to-digital divide by turning standard, boring barcodes into stunning, brand-aligned visual assets. Engineered with advanced Reed-Solomon error correction and modern styling engines, Buzz QR AI empowers businesses, developers, and individuals to create, style, and track QR codes with 100% scanning reliability.
+**Buzz QR AI** bridges the physical-to-digital divide by turning standard, boring QR codes into stunning, brand-aligned visual assets. Engineered with advanced Reed-Solomon error correction and modern styling engines, Buzz QR AI empowers businesses, developers, and individuals to create, style, and track QR codes with 100% scanning reliability.
 
 * **Official Website:** [https://buzzqrai.ranpariyalab.com/](https://buzzqrai.ranpariyalab.com/)
 * **Google Play Package:** [`com.buzzqrai`](https://play.google.com/store/apps/details?id=com.buzzqrai)
