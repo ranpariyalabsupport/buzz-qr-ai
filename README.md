@@ -73,7 +73,6 @@ Get the official Buzz QR AI application directly from Google Play:
 ## 🛠️ Tech Stack & Engineering Highlights
 
 * **Mobile Architecture:** Native Android performance with zero-latency camera decoding.
-* **Web Showcase:** Next.js (Static Export), Tailwind CSS, Three.js WebGL rendering, GSAP animations.
 * **Error Correction:** Reed-Solomon Algorithms (Levels L, M, Q, H) ensuring scannability even with embedded logos.
 * **Privacy First:** On-device decoding prevents unauthorized telemetry or data harvesting.
 
